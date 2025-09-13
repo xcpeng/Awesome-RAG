@@ -18,7 +18,7 @@
 <a name="2025"></a>
 |                                 |                                 |                                 |                                 |                                 |                                 | 
 |---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| 2025.12     | 2025.11    | 2025.10       | 2025.09        | [2025.08](#2025-August)           |[2025.07](#2025-July)          |
+| 2025.12     | 2025.11    | 2025.10       | [2025.09](#2025-September)        | [2025.08](#2025-August)           |[2025.07](#2025-July)          |
 | [2025.06](#2025-June)       | [2025.05](#2025-May)       | [2025.04](#2025-April)       | [2025.03](#2025-March)        | [2025.02](#2025-February)  | [2025.01](#2025-January)   |
 
 
@@ -39,27 +39,52 @@
 
 
 ## 🔥Latest News
-- ✨We've updated the papers from August!📅
-- ✨We study parametric-retrieved knowledge synergy in [CoCoA](https://arxiv.org/pdf/2508.01696); [Code](https://github.com/liunian-Jay/CoCoA) open-source!🚀
-- ✨We've updated the papers from June and July!📅
+- ✨Updated the papers from August and September!📅
+- ✨Our [CoCoA](https://arxiv.org/pdf/2508.01696) released — studying parametric-retrieved knowledge synergy! [Code](https://github.com/liunian-Jay/CoCoA) open-source!🚀
+- ✨Updated the papers from June and July!📅
 - ✨We've built a minimal project [AgenticRAG-RL](https://github.com/liunian-Jay/AgenticRAG-RL)🚀 — Feel free to contribute!🤝
-- ✨We've updated the list of papers accepted by ACL! ✅
+- ✨Updated the papers accepted by ACL! ✅
 - ✨Our [GainRAG](https://arxiv.org/pdf/2505.18710) accepted at **ACL Main**! [Code](https://github.com/liunian-Jay/GainRAG) open-source!🚀
 - . . .
-- ✨ We've updated the papers from 2024! 📄
+- ✨ Updated the papers from 2024! 📄
 
 ## 🔥Latest Papers
-### 🔥2025 August
+### 🔥2025 September
+- Sep 9 [Rethinking LLM Parametric Knowledge as Post-retrieval Confidence for Dynamic Retrieval and Reranking](https://arxiv.org/pdf/2509.06472)
+- Sep 8 [Domain-Aware RAG: MoL-Enhanced RL for Efficient Training and Scalable Retrieval](https://arxiv.org/pdf/2509.06650)
+- Sep 8 [HAVE: Head-Adaptive Gating and ValuE Calibration for Hallucination Mitigation in Large Language Models](https://arxiv.org/pdf/2509.06596)
+- Sep 5 [Fishing for Answers: Exploring One-shot vs. Iterative Retrieval Strategies for Retrieval Augmented Generation](https://arxiv.org/pdf/2509.04820)
+- Sep 5 [KERAG: Knowledge-Enhanced Retrieval-Augmented Generation for Advanced Question Answering](https://arxiv.org/pdf/2509.04716)
+- Sep 4 [SelfAug: Mitigating Catastrophic Forgetting in Retrieval-Augmented Generation via Distribution Self-Alignment](https://arxiv.org/pdf/2509.03934)
+- Sep 4 [MobileRAG: Enhancing Mobile Agent with Retrieval-Augmented Generation](https://arxiv.org/pdf/2509.03891)
+- Sep 2 [Better by Comparison: Retrieval-Augmented Contrastive Reasoning for Automatic Prompt Optimization](https://arxiv.org/pdf/2509.02093)
+- Sep 1 [REFRAG: Rethinking RAG based Decoding](https://arxiv.org/pdf/2509.01092)
+- Sep 1 [Towards Open-World Retrieval-Augmented Generation on Knowledge Graph: A Multi-Agent Collaboration Framework](https://arxiv.org/pdf/2509.01238)
+
+### 🍭2025 August
+- Aug 29 [Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic Thought Reward](https://arxiv.org/pdf/2508.12800)
+- Aug 27 [Understanding and Leveraging the Expert Specialization of Context Faithfulness in Mixture-of-Experts LLMs](https://arxiv.org/pdf/2508.19594)
+- Aug 27 [Can Compact Language Models Search Like Agents? Distillation-Guided Policy Optimization for Preserving Agentic RAG Capabilities](https://arxiv.org/pdf/2508.20324)
+- Aug 27 [LFD: Layer Fused Decoding to Exploit External Knowledge in Retrieval-Augmented Generation](https://arxiv.org/pdf/2508.19614)
+- Aug 26 [Context-Adaptive Synthesis and Compression for Enhanced Retrieval-Augmented Generation in Complex Domains](https://arxiv.org/pdf/2508.19357)
+- Aug 25 [Improving End-to-End Training of Retrieval-Augmented Generation Models via Joint Stochastic Approximation](https://arxiv.org/pdf/2508.18168)
+- Aug 24 [CORE: Lossless Compression for Retrieval-Augmented LLMs via Reinforcement Learning](https://arxiv.org/pdf/2508.19282)
+- Aug 24 [SEFRQO: A Self-Evolving Fine-Tuned RAG-Based Query Optimizer](https://arxiv.org/pdf/2508.17556)
+- Aug 24 [SSFO: Self-Supervised Faithfulness Optimization for Retrieval-Augmented Generation](https://arxiv.org/pdf/2508.17225)
+- Aug 21 [Conflict-Aware Soft Prompting for Retrieval-Augmented Generation](https://arxiv.org/pdf/2508.15253)
+- Aug 21 [Select to Know: An Internal-External Knowledge Self-SelectionFramework for Domain-Specific Question Answering](https://arxiv.org/pdf/2508.15213)
 - Aug 18 [LeanRAG: Knowledge-Graph-Based Generation with Semantic Aggregation and Hierarchical Retrieval](https://arxiv.org/pdf/2508.10391)
 - Aug 15 [Cross-Granularity Hypergraph Retrieval-Augmented Generation for Multi-hop Question Answering](https://arxiv.org/pdf/2508.11247)
 - Aug 14 [SSRL: Self-Search Reinforcement Learning](https://arxiv.org/pdf/2508.10874)
 - Aug 14 [ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning](https://arxiv.org/pdf/2508.10419)
 - Aug 13 [Towards Self-cognitive Exploration: Metacognitive Knowledge Graph Retrieval Augmented Generation](https://arxiv.org/pdf/2508.09460v1)
+- Aug 13 [Transforming Questions and Documents for Semantically Aligned Retrieval-Augmented Generation](https://arxiv.org/pdf/2508.09755)
 - Aug 12 [READER: Retrieval-Assisted Drafter for Efficient LLM Inference](https://arxiv.org/abs/2508.09072)
 - Aug 12 [REX-RAG: Reasoning Exploration with Policy Correction in Retrieval-Augmented Generation](https://arxiv.org/pdf/2508.08149)
 - Aug 11 [LAG: Logic-Augmented Generation from a Cartesian Perspective](https://arxiv.org/pdf/2508.05509)
 - Aug 11 [Careful Queries, Credible Results: Teaching RAG Models Advanced Web Search Tools with Reinforcement Learning](https://arxiv.org/pdf/2508.07956)
 - Aug 10 [PrLM: Learning Explicit Reasoning for Personalized RAG via Contrastive Reward Optimization](https://arxiv.org/pdf/2508.07342)
+- Aug 8 [Guided Decoding and Its Critical Role in Retrieval-Augmented Generation](https://arxiv.org/pdf/2509.06631)
 - Aug 8 [UR<sup>2</sup>: Unify RAG and Reasoning through Reinforcement Learning](https://arxiv.org/pdf/2508.06165)
 - Aug 8 [Spectrum Projection Score: Aligning Retrieved Summaries with Reader Models in Retrieval-Augmented Generation](https://arxiv.org/pdf/2508.05909v1)
 - Aug 7 [BEE-RAG: Balanced Entropy Engineering for Retrieval-Augmented Generation](https://www.arxiv.org/pdf/2508.05100)
