@@ -191,7 +191,7 @@ $fingdings$
 - [GeAR: Graph-enhanced Agent for Retrieval-augmented Generation](https://arxiv.org/pdf/2412.18431)
 - [CtrlA: Adaptive Retrieval-Augmented Generation via Inherent Control](https://arxiv.org/pdf/2405.18727)
 - [RoseRAG: Robust Retrieval-augmented Generation with Small-scale LLMs via Margin-aware Preference Optimization](https://arxiv.org/pdf/2502.10993)
-- [The Silent Saboteur: Imperceptible Adversarial Attacks against Black-Box Retrieval-Augmented Generation Systems]()
+- [The Silent Saboteur: Imperceptible Adversarial Attacks against Black-Box Retrieval-Augmented Generation Systems](https://www.arxiv.org/pdf/2505.18583)
 - [PISCO: Pretty Simple Compression for Retrieval-Augmented Generation](https://arxiv.org/pdf/2501.16075)
 - [RAPID: Efficient Retrieval-Augmented Long Text Generation with Writing Planning and Information Discovery](https://arxiv.org/pdf/2503.00751)
 - [Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation](https://arxiv.org/pdf/2502.08826)
