@@ -1,20 +1,30 @@
-# Awesome-RAG
-🤖 List of recent developments in Retrieval-Augmented Generation (RAG) for large language models (LLM).  
+<p align="center">
+
+  <h2 align="center"><strong>Awesome-RAG</strong></h2>
+
+<div align="center">
+</div>
+
+
+💡 List of recent developments in Retrieval-Augmented Generation (RAG) for large language models (LLM).  
 🤗 We welcome and encourage researchers to submit pull requests to update information in their papers!  
-💡 This repo is still being improved and updated, and a general framework is being built, so stay tuned!  
+📫 This repo is still being improved and updated, and a Framework and Survey are being built, so stay tuned!   
 📫 Feel free to email us at jiangyijcx@163.com if you're interested in improving this project repository.
 
 
-## 📕Overview
-### [📌Accepted papers](#Accept)
+## 📕 Overview
+### [📌 Accepted papers](#Accept)
 <a name="Accept"></a>
+<small>
+
 |                           |                            |                              |                          |                           | 
 |---------------------------|----------------------------|------------------------------|--------------------------|---------------------------|
 | NIPS 2025        | EMNLP 2025     | [ACL 2025](#ACL-2025)        | [ICML 2025](#ICML-2025)  | [ICLR 2025](#ICLR-2025)   |
 | [NIPS 2024](#NIPS-2024)   | [EMNLP 2024](#EMNLP-2024)  | [ACL 2024](#ACL-2024)        | [ICML 2024](#ICML-2024)  | [ICLR 2024](#ICLR-2024)   |
 
+</small>
 
-### [🗓️2025 papers](#2025)
+### [🗓️ 2025 papers](#2025)
 <a name="2025"></a>
 |                                 |                                 |                                 |                                 |                                 |                                 | 
 |---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
@@ -22,35 +32,85 @@
 | [2025.06](#2025-June)       | [2025.05](#2025-May)       | [2025.04](#2025-April)       | [2025.03](#2025-March)        | [2025.02](#2025-February)  | [2025.01](#2025-January)   |
 
 
-### [🗓️2024 papers](#2024)
+### [🗓️ 2024 papers](#2024)
 <a name="2024"></a>
 |                                 |                                 |                                 |                                   |                                   |                                   |
 |---------------------------------|---------------------------------|---------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 | [2024.12](#2024-December) | [2024.11](#2024-November) | [2024.10](#2024-October)   | [2024.09](#2024-September) | [2024.08](#2024-August)       |[2024.07](#2024-July)       |
 | [2024.06](#2024-June)     | [2024 .05](#2024-May)     | [2024.04](#2024-Apri)      | [2024.03](#2024-March)     | [2024.02](#2024-February)     | [2024.01](#2024-January)     | 
 
-### 🗃️Evaluation Datasets
+### 🗃️ Evaluation Datasets
 <a name="dataset"></a>
 |                                 |                                 |                                 |                                   |                                   |                                   |
 |---------------------------------|---------------------------------|---------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
 | [HotpotQA](https://hotpotqa.github.io/) | [2WikiMultiHopQA](https://github.com/Alab-NII/2wikimultihop) | [WebQuestions](https://nlp.stanford.edu/software/sempre/)   | [TriviaQA](http://nlp.cs.washington.edu/triviaqa/) | [MuSiQue](https://github.com/stonybrooknlp/musique)       |[NaturalQA](https://ai.google.com/research/NaturalQuestions)            |
-| [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)         | [PopQA](https://github.com/AlexTMallen/adaptive-retrieval)           | [ASQA](https://github.com/google-research/language/tree/master/language/asqa)        | [Bamboogle](https://huggingface.co/datasets/chiayewken/bamboogle)         | [ARC_Challenge](http://data.allenai.org/arc)   | [PubHealth](https://github.com/luohongyin/unilc)     | 
+| [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)         | [PopQA](https://github.com/AlexTMallen/adaptive-retrieval)           | [ASQA](https://github.com/google-research/language/tree/master/language/asqa)       | [Bamboogle](https://huggingface.co/datasets/chiayewken/bamboogle)         | [ARC_Challenge](http://data.allenai.org/arc)   | [PubHealth](https://github.com/luohongyin/unilc)     | 
 
 
-
-## 🔥Latest News
-- ✨Updated the papers from August and September!📅
-- ✨Our [CoCoA](https://arxiv.org/pdf/2508.01696) released — studying parametric-retrieved knowledge synergy! [Code](https://github.com/liunian-Jay/CoCoA) open-source!🚀
-- ✨Updated the papers from June and July!📅
-- ✨We've built a minimal project [AgenticRAG-RL](https://github.com/liunian-Jay/AgenticRAG-RL)🚀 — Feel free to contribute!🤝
-- ✨Updated the papers accepted by ACL! ✅
-- ✨Our [GainRAG](https://arxiv.org/pdf/2505.18710) accepted at **ACL Main**! [Code](https://github.com/liunian-Jay/GainRAG) open-source!🚀
+## 🎉 Latest News
+- [25.10] Our [QAgent](https://github.com/OpenStellarTeam/QAgent) released — an agentic RAG framework! [Code](https://arxiv.org/pdf/2510.08383) open-source!�
+- [25.10] Updated the papers from September and October!📅
+- [25.09] Updated the papers from August and September!📅
+- [25.08] Our [CoCoA](https://arxiv.org/pdf/2508.01696) released — studying knowledge synergy! [Code](https://github.com/liunian-Jay/CoCoA) open-source!🚀
+- [25.07-08] Updated the papers from June and July!📅
+- [25.06] We built [AgenticRAG-RL](https://github.com/liunian-Jay/AgenticRAG-RL) — a minimal project! Feel free to contribute!🤝
+- [25.06] Updated the papers accepted by ACL! ✅
+- [25.05] Our [GainRAG](https://arxiv.org/pdf/2505.18710) accepted at **ACL Main**! [Code](https://github.com/liunian-Jay/GainRAG) open-source!🚀
+- [25.01-05] Updated the papers from 2025! 📄
 - . . .
-- ✨ Updated the papers from 2024! 📄
+- [24.06-12] Updated the papers from 2024! 📄
+
+
+### 🎁 Resources
+#### 💡Survey
+- [2025.05] A Survey on Knowledge-Oriented Retrieval-Augmented Generation [[Link]](https://arxiv.org/pdf/2503.10677)
+- [2025.01] Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG [[Link]](https://arxiv.org/pdf/2501.09136)
+- [2024.10] A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions [[Link]](https://arxiv.org/pdf/2410.12837?)
+- [2024.09] Trustworthiness in Retrieval-Augmented Generation Systems: A Survey [[Link]](https://arxiv.org/pdf/2409.10102?)
+- [2024.09] Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely [[Link]](https://arxiv.org/pdf/2409.14924?)
+- [2024.07] Retrieval-Augmented Generation for Natural Language Processing: A Survey [[Link]](https://arxiv.org/pdf/2407.13193?)
+- [2024.05] A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models [[Link]](https://arxiv.org/pdf/2405.06211)
+- [2024.02] Retrieval-Augmented Generation for AI-Generated Content: A Survey [[Link]](https://arxiv.org/pdf/2402.19473)
+- [2023.12] Retrieval-Augmented Generation for Large Language Models: A Survey [[Link]](https://arxiv.org/pdf/2312.10997)
+
+#### 💡Project
+- [LightRAG](https://github.com/HKUDS/LightRAG)
+- [RAGFlow](https://github.com/infiniflow/ragflow)
+- [RAG-Anything](https://github.com/HKUDS/RAG-Anything)
+- [Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG)
+
 
 ## 🔥Latest Papers
-### 🔥2025 September
+### 🔥2025 October
+- Oct 9 [QAgent: A modular Search Agent with Interactive Query Understanding](https://arxiv.org/pdf/2510.08383)
+- Oct 9 [STEPER: Step-wise Knowledge Distillation for Enhancing Reasoning Ability in Multi-Step Retrieval-Augmented Language Models](https://arxiv.org/pdf/2510.07923)
+- Oct 7 [HiPRAG: Hierarchical Process Rewards for Efficient Agentic Retrieval Augmented Generation](https://arxiv.org/pdf/2510.07794)
+- Oct 6 [MHA-RAG: Improving Efficiency, Accuracy, and Consistency by Encoding Exemplars as Soft Prompts](https://arxiv.org/pdf/2510.05363)
+- Oct 4 [Beyond Outcome Reward: Decoupling Search and Answering Improves LLM Agents](https://arxiv.org/pdf/2510.04695)
+- Oct 4 [Equipping Retrieval-Augmented Large Language Models with Document Structure Awareness](https://arxiv.org/pdf/2510.04293)
+- Oct 2 [Less LLM, More Documents: Searching for Improved RAG](https://arxiv.org/pdf/2510.02657)
+- Oct 2 [Learning to Route: A Rule-Driven Agent Framework for Hybrid-Source Retrieval-Augmented Generation](https://arxiv.org/pdf/2510.02388)
+- Oct 2 [Training Dynamics of Parametric and In-Context Knowledge Utilization in Language Models](https://arxiv.org/pdf/2510.02370)
+- Oct 2 [AccurateRAG: A Framework for Building Accurate Retrieval-Augmented Question-Answering Applications](https://arxiv.org/pdf/2510.02243)
+- Oct 1 [A Comparison of Independent and Joint Fine-tuning Strategies for Retrieval-Augmented Generation](https://arxiv.org/pdf/2510.01600)
+- Oct 1 [Fine-tuning with RAG for Improving LLM Learning of New Skills](https://arxiv.org/pdf/2510.01375)
+- Oct 1 [GRAD: Generative Retrieval-Aligned Demonstration Sampler for Efficient Few-Shot Reasoning](https://arxiv.org/pdf/2510.01165)
+- Oct 1 [HalluGuard: Evidence-Grounded Small Reasoning Models to Mitigate Hallucinations in Retrieval-Augmented Generation](https://arxiv.org/pdf/2510.00880)
+  
+### 🍭2025 September
+- Sep 30 [RAGferee: Building Contextual Reward Models for Retrieval-Augmented Generation](https://arxiv.org/pdf/2509.26011)
+- Sep 27 [From Evidence to Trajectory: Abductive Reasoning Path Synthesis for Training Retrieval-Augmented Generation Agents](https://arxiv.org/pdf/2509.23071)
+- Sep 26 [Beyond RAG vs. Long-Context: Learning Distraction-Aware Retrieval for Efficient Knowledge Grounding](https://arxiv.org/pdf/2509.21865)
+- Sep 26 [Can Synthetic Query Rewrites Capture User Intent Better than Humans in Retrieval-Augmented Generation?](https://arxiv.org/pdf/2509.22325)
+- Sep 25 [Concise and Sufficient Sub-Sentence Citations for Retrieval-Augmented Generation](https://arxiv.org/pdf/2509.20859)
+- Sep 24 [RAR<sup>2</sup>: Retrieval-Augmented Medical Reasoning via Thought-Driven Retrieval](https://arxiv.org/pdf/2509.22713)
+- Sep 22 [AttnComp: Attention-Guided Adaptive Context Compression for Retrieval-Augmented Generation](https://arxiv.org/pdf/2509.17486)
+- Sep 21 [Influence Guided Context Selection for Effective Retrieval-Augmented Generation](https://arxiv.org/pdf/2509.21359)
+- Sep 20 [SKILL-RAG: Self-Knowledge Induced Learning and Filtering for Retrieval-Augmented Generation](https://arxiv.org/pdf/2509.20377)
+- Sep 19 [Relevance to Utility: Process-Supervised Rewrite for RAG](https://arxiv.org/pdf/2509.15577)
+- Sep 17 [Improving Context Fidelity via Native Retrieval-Augmented Reasoning](https://arxiv.org/pdf/2509.13683)
 - Sep 9 [Rethinking LLM Parametric Knowledge as Post-retrieval Confidence for Dynamic Retrieval and Reranking](https://arxiv.org/pdf/2509.06472)
+- Sep 8 [HANRAG: Heuristic Accurate Noise-resistant Retrieval-Augmented Generation for Multi-hop Question Answering](https://arxiv.org/pdf/2509.09713)
 - Sep 8 [Domain-Aware RAG: MoL-Enhanced RL for Efficient Training and Scalable Retrieval](https://arxiv.org/pdf/2509.06650)
 - Sep 8 [HAVE: Head-Adaptive Gating and ValuE Calibration for Hallucination Mitigation in Large Language Models](https://arxiv.org/pdf/2509.06596)
 - Sep 5 [Fishing for Answers: Exploring One-shot vs. Iterative Retrieval Strategies for Retrieval Augmented Generation](https://arxiv.org/pdf/2509.04820)
