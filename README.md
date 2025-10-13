@@ -28,7 +28,7 @@
 <a name="2025"></a>
 |                                 |                                 |                                 |                                 |                                 |                                 | 
 |---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| 2025.12     | 2025.11    | 2025.10       | [2025.09](#2025-September)        | [2025.08](#2025-August)           |[2025.07](#2025-July)          |
+| 2025.12     | 2025.11    | [2025.10](#2025-October)       | [2025.09](#2025-September)        | [2025.08](#2025-August)           |[2025.07](#2025-July)          |
 | [2025.06](#2025-June)       | [2025.05](#2025-May)       | [2025.04](#2025-April)       | [2025.03](#2025-March)        | [2025.02](#2025-February)  | [2025.01](#2025-January)   |
 
 
@@ -48,7 +48,7 @@
 
 
 ## 🎉 Latest News
-- [25.10] Our [QAgent](https://github.com/OpenStellarTeam/QAgent) released — an agentic RAG framework! [Code](https://arxiv.org/pdf/2510.08383) open-source!�
+- [25.10] Our [QAgent](https://arxiv.org/pdf/2510.08383) released — an agentic RAG framework! [Code](https://github.com/OpenStellarTeam/QAgent) open-source!�
 - [25.10] Updated the papers from September and October!📅
 - [25.09] Updated the papers from August and September!📅
 - [25.08] Our [CoCoA](https://arxiv.org/pdf/2508.01696) released — studying knowledge synergy! [Code](https://github.com/liunian-Jay/CoCoA) open-source!🚀
