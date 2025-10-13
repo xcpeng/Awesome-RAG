@@ -1,15 +1,19 @@
-<p align="center">
-
-  <h2 align="center"><strong>Awesome-RAG</strong></h2>
-
 <div align="center">
+  <!-- <p align="center"> -->
+  <h1 align="center"><strong>Awesome-RAG</strong></h1>
 </div>
 
+<div align="center">
+  
+  ![](https://img.shields.io/github/stars/liunian-Jay/Awesome-RAG)
+  ![](https://img.shields.io/github/forks/liunian-Jay/Awesome-RAG)
+</div>
+  
 
-💡 List of recent developments in Retrieval-Augmented Generation (RAG) for large language models (LLM).  
+
+💡  List of recent developments in Retrieval-Augmented Generation (RAG) for large language models (LLM).  
 🤗 We welcome and encourage researchers to submit pull requests to update information in their papers!  
-📫 This repo is still being improved and updated, and a Framework and Survey are being built, so stay tuned!   
-📫 Feel free to email us at jiangyijcx@163.com if you're interested in improving this project repository.
+📫 Repo under active development. Framework & Survey coming. Feel free to email us at jiangyijcx@163.com.
 
 
 ## 📕 Overview
