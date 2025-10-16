@@ -51,25 +51,22 @@
 | [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)         | [PopQA](https://github.com/AlexTMallen/adaptive-retrieval)           | [ASQA](https://github.com/google-research/language/tree/master/language/asqa)       | [Bamboogle](https://huggingface.co/datasets/chiayewken/bamboogle)         | [ARC_Challenge](http://data.allenai.org/arc)   | [PubHealth](https://github.com/luohongyin/unilc)     | 
 
 
-## 🎉 Latest News
-- [25.10] Our [QAgent](https://arxiv.org/pdf/2510.08383) released — an agentic RAG framework! [Code](https://github.com/OpenStellarTeam/QAgent) open-source!�
-- [25.10] Updated the papers from September and October!📅
-- [25.09] Updated the papers from August and September!📅
-- [25.08] Our [CoCoA](https://arxiv.org/pdf/2508.01696) released — studying knowledge synergy! [Code](https://github.com/liunian-Jay/CoCoA) open-source!🚀
-- [25.07-08] Updated the papers from June and July!📅
-- [25.06] We built [AgenticRAG-RL](https://github.com/liunian-Jay/AgenticRAG-RL) — a minimal project! Feel free to contribute!🤝
-- [25.06] Updated the papers accepted by ACL! ✅
-- [25.05] Our [GainRAG](https://arxiv.org/pdf/2505.18710) accepted at **ACL Main**! [Code](https://github.com/liunian-Jay/GainRAG) open-source!🚀
-- [25.01-05] Updated the papers from 2025! 📄
-- . . .
-- [24.06-12] Updated the papers from 2024! 📄
+## 📢 Latest News
+- **[25.10]:** Updated the recent papers from September and October!📅
+- **[25.10]:** Our [QAgent](https://arxiv.org/pdf/2510.08383) released — an agentic RAG framework!🚀 [[Code]](https://github.com/OpenStellarTeam/QAgent)
+- **[25.08]:** Our [CoCoA](https://arxiv.org/pdf/2508.01696) released — studying knowledge synergy!🚀 [[Code]](https://github.com/liunian-Jay/CoCoA)
+- **[25.06]:** We built [AgenticRAG-RL](https://github.com/liunian-Jay/AgenticRAG-RL) — a minimal RL-RAG! Feel free to contribute!🤝
+- **[25.05]:** Our [GainRAG](https://arxiv.org/pdf/2508.01696) released — studying preference alignment!🚀 [[Code]](https://github.com/liunian-Jay/GainRAG)
+- **[25.05]:** Our **GainRAG** accepted at ***ACL2025 Main***! 🎉 [[Paper]](https://arxiv.org/pdf/2505.18710)[[Code]](https://github.com/liunian-Jay/GainRAG)
+- **[25.01-05]:** Updated the papers from 2025! 📄
+- **[24.10]:** We built [MU-GOT](https://github.com/liunian-Jay/MU-GOT) — a PDF parsing tool! Feel free to contribute!🤝
+- **[24.06-12]:** Updated the papers from 2024! 📄
 
 
 ### 🎁 Resources
 #### 💡Survey
 - [2025.05] A Survey on Knowledge-Oriented Retrieval-Augmented Generation [[Link]](https://arxiv.org/pdf/2503.10677)
 - [2025.01] Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG [[Link]](https://arxiv.org/pdf/2501.09136)
-- [2024.10] A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions [[Link]](https://arxiv.org/pdf/2410.12837?)
 - [2024.09] Trustworthiness in Retrieval-Augmented Generation Systems: A Survey [[Link]](https://arxiv.org/pdf/2409.10102?)
 - [2024.09] Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely [[Link]](https://arxiv.org/pdf/2409.14924?)
 - [2024.07] Retrieval-Augmented Generation for Natural Language Processing: A Survey [[Link]](https://arxiv.org/pdf/2407.13193?)
