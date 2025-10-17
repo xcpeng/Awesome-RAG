@@ -13,8 +13,7 @@
 
 💡  List of recent developments in Retrieval-Augmented Generation (RAG) for large language models (LLM).  
 🤗 We welcome and encourage researchers to submit pull requests to update information in their papers!  
-📫 Repo under active development. Framework & Survey coming. Feel free to email us at jiangyijcx@163.com.
-
+📫 _Repo under active development. Collaborations welcome on **Framework** & **Survey**. Contact: jiangyijcx@163.com._
 
 ## 📕 Overview
 ### [📌 Accepted papers](#Accept)
@@ -56,7 +55,7 @@
 - **[25.10]:** Our [QAgent](https://arxiv.org/pdf/2510.08383) released — an agentic RAG framework!🚀 [[Code]](https://github.com/OpenStellarTeam/QAgent)
 - **[25.08]:** Our [CoCoA](https://arxiv.org/pdf/2508.01696) released — studying knowledge synergy!🚀 [[Code]](https://github.com/liunian-Jay/CoCoA)
 - **[25.06]:** We built [AgenticRAG-RL](https://github.com/liunian-Jay/AgenticRAG-RL) — a minimal RL-RAG! Feel free to contribute!🤝
-- **[25.05]:** Our [GainRAG](https://arxiv.org/pdf/2508.01696) released — studying preference alignment!🚀 [[Code]](https://github.com/liunian-Jay/GainRAG)
+- **[25.05]:** Our [GainRAG](https://arxiv.org/pdf/2505.18710) released — studying preference alignment!🚀 [[Code]](https://github.com/liunian-Jay/GainRAG)
 - **[25.05]:** Our **GainRAG** accepted at ***ACL2025 Main***! 🎉 [[Paper]](https://arxiv.org/pdf/2505.18710)[[Code]](https://github.com/liunian-Jay/GainRAG)
 - **[25.01-05]:** Updated the papers from 2025! 📄
 - **[24.10]:** We built [MU-GOT](https://github.com/liunian-Jay/MU-GOT) — a PDF parsing tool! Feel free to contribute!🤝
