@@ -51,8 +51,10 @@
 
 
 ## 📢 Latest News
+- **[26.1]:** Our [ArcAligner](https://arxiv.org/pdf/2601.05038) released — designed for long memory!🚀 [[Code]](https://github.com/liunian-Jay/ArcAligner)
+- **[26.1]:** Our [OptiSet](https://arxiv.org/pdf/2601.05027) released — unified selection and ranking!🚀 [[Code]](https://github.com/liunian-Jay/OptiSet)
 - **[25.10]:** Updated the recent papers from September and October!📅
-- **[25.10]:** Our [QAgent](https://arxiv.org/pdf/2510.08383) released — an agentic RAG framework!🚀 [[Code]](https://github.com/OpenStellarTeam/QAgent)
+- **[25.10]:** Our [QAgent](https://arxiv.org/pdf/2510.08383) released — an agentic RAG framework!🚀 [[Code]](https://github.com/LivingFutureLab/QAgent)
 - **[25.08]:** Our [CoCoA](https://arxiv.org/pdf/2508.01696) released — studying knowledge synergy!🚀 [[Code]](https://github.com/liunian-Jay/CoCoA)
 - **[25.06]:** We built [AgenticRAG-RL](https://github.com/liunian-Jay/AgenticRAG-RL) — a minimal RL-RAG! Feel free to contribute!🤝
 - **[25.05]:** Our [GainRAG](https://arxiv.org/pdf/2505.18710) released — studying preference alignment!🚀 [[Code]](https://github.com/liunian-Jay/GainRAG)
